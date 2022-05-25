@@ -1,0 +1,6 @@
+print (' hello world')
+print ('my name is Diana')
+print ('im in 9º grade')
+print ('group "c"')
+print ('my favourite food is probably pizza')
+print ('and blue and green is a wierdly common color combo ')
